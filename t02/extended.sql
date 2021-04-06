@@ -52,4 +52,6 @@ VALUES (1, 'Avengers'),
 (1, 'Hydra'),
 (2, 'Hydra'),
 (4, 'Avengers'),
-(3, 'Avengers');
+(3, 'Avengers'),
+(11, 'Avengers'),
+(11, 'Hydra');
